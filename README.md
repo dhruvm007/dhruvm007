@@ -12,6 +12,10 @@
 
 - ⚡ Fun fact **I like to cook**
 
+<img src="[https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif)"/>
+<img src="[https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)"/>
+<img src="[https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif)"/>
+<img src="[https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif](https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif)"/>
 <img style="padding-bottom: 40px;" align="right" alt="coding image" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvm007&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvm007" /> </p>
